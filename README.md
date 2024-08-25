@@ -1,6 +1,6 @@
-# rf-test-automation
+# rf-rpa-challenge
 
-A simple test automation project using robot framework to solve [RPA Challenge.](https://rpachallenge.com/)
+A project to solve [RPA Challenge.](https://rpachallenge.com/) using Robot Framework.
 
 ## Description
 * Download input data as xlsx
