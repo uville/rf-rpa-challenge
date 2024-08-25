@@ -1,6 +1,6 @@
 # rf-rpa-challenge
 
-A project to solve [RPA Challenge.](https://rpachallenge.com/) using Robot Framework.
+A project to solve [RPA Challenge](https://rpachallenge.com/) using Robot Framework.
 
 ## Description
 * Download input data as xlsx
